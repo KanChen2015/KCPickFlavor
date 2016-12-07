@@ -1,0 +1,6 @@
+framework module Pods_KCPickerFlavor {
+  umbrella header "Pods-KCPickerFlavor-umbrella.h"
+
+  export *
+  module * { export * }
+}
